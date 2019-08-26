@@ -17,7 +17,7 @@ if($_GET['id']) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Edit Member</title>
+	<title>Editar Membro</title>
 
 	<style type="text/css">
 		fieldset {
